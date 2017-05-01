@@ -1,12 +1,12 @@
 ```
 As a Makers Student
-So that I can see my bookmarks
-I would like to view a list of links from a database
+So that I can quickly visit my favourite sites
+I would like to view a list of links from a bookmark manager
 ```
 ```
 As a Makers Student
-So that I can add bookmarks
-I would like to add links to the database
+So that I can return to a website easily
+I would like to add a site to the bookmark manager
 ```
 ```
 As a Makers Student
