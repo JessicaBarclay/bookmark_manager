@@ -10,8 +10,8 @@ I would like to add a website's address and title to the bookmark manager
 ```
 ```
 As a Makers Student
-So that I can organize my bookmarks
-I would like to add tags to my bookmarks
+So that I can organise my bookmarks
+I would like to add a tag to a bookmark
 ```
 ```
 As a Makers Student
