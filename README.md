@@ -26,4 +26,4 @@ I would like to see links in descending chronological order
 ```
 Domain model
 
-![Alt text](https://github.com/JessicaBarclay/bookmark_manager/blob/master/domain_model/diagram.png "diagram.png")
+![Alt text](https://github.com/JessicaBarclay/bookmark_manager/blob/master/domain_model/diagram.png "diagram")
